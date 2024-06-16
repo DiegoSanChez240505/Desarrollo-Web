@@ -1,0 +1,32 @@
+
+
+.card-header {
+    background-color: #6c757d;
+    color: white;
+}
+
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pending-task {
+    background-color: white;
+}
+
+.completed-task {
+    background-color: #d4edda;
+    color: #155724;
+    text-decoration: line-through;
+}
+
+.overdue-task {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+.letter{
+    background-color: aqua;
+}
+
+/*///////*/
